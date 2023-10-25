@@ -1,0 +1,5 @@
+What will be the output of the given python program?
+str1 = "welcome"
+str2 = "to school"
+str3=str1[:2]+str2[len(str2)-2:]
+print(str3)
