@@ -1,0 +1,9 @@
+word = input()
+string=""
+
+for i in word:
+    if i== "w":
+        string+= "v"
+    else:
+        string+=i
+print(string)
